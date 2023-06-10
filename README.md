@@ -1,13 +1,11 @@
 <h1 align="center">Olá 👋 sou a Yasmin</h1>
 <h3 align="center">Analiso dados, extraio informações e provoco soluções!</h3>
 
-- 🔭 Como tudo começou... [análise de dados de graduações brasileiras](https://drive.google.com/file/d/1Bsp-uI1nqVJvWvYBTc99NWPUI75kQRsO/view?usp=sharing)
-
 - 🌱 O que estou aprendendo agora: **Data Analytics and Business Intelligence**
 
 - 💬 Pergunte-me sobre **Python, SQL e Microsoft Excel**
 
-- 📄 Mais sobre mim: na análise de dados vi a oportunidade de combinar conhecimentos técnicos e matemáticos para fazer o que há de melhor: trazer soluções práticas e executáveis para pessoas! Já estudei Ciências/Física na UNIFESP, fui professora, pesquisadora na área de análise de dados de graduações brasileiras e atualmente curso Inteligência de Mercado e Análise de Dados na Anhanguera Educacional. **Para mim, pensamento orientado a resolução de problemas + comunicação e flexibilidade nas relações humanas = sucesso**. 
+- 📄 Mais sobre mim: na análise de dados vi a oportunidade de combinar conhecimentos técnicos e matemáticos para fazer o que há de melhor: trazer soluções práticas e executáveis para pessoas! Já estudei Ciências/Física na UNIFESP, fui professora, pesquisadora e atualmente curso Inteligência de Mercado e Análise de Dados na Anhanguera Educacional. **Para mim, pensamento orientado a resolução de problemas + comunicação e flexibilidade nas relações humanas = sucesso**. 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
