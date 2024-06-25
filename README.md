@@ -5,7 +5,7 @@
 
 - 💬 Pergunte-me sobre **Python, SQL e Microsoft Excel**
 
-- 📄 Mais sobre mim: na análise de dados vi a oportunidade de combinar conhecimentos técnicos e matemáticos para fazer o que há de melhor: trazer soluções práticas e executáveis para pessoas! Já estudei Ciências/Física na UNIFESP, fui professora, pesquisadora e atualmente curso Inteligência de Mercado e Análise de Dados na Anhanguera Educacional. **Para mim, pensamento orientado a resolução de problemas + comunicação e flexibilidade nas relações humanas = sucesso**. 
+- 📄 Mais sobre mim: na análise de dados vi a oportunidade de combinar conhecimentos técnicos e matemáticos para fazer o que há de melhor: trazer soluções práticas e executáveis para pessoas! Já estudei Ciências/Física na UNIFESP, fui professora, pesquisadora e atualmente curso Inteligência de Mercado e Análise de Dados, aplicando esses conhecimentos estagiando no mercado financeiro. **Para mim, pensamento orientado a resolução de problemas + comunicação e flexibilidade nas relações humanas = sucesso**. 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
